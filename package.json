@@ -1,0 +1,11 @@
+{
+  "name": "watermarks-kodilla-20.3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/natkalia/watermarks-kodilla-20.3.git",
+  "author": "Natalia Banasiewicz",
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "0.6.4"
+  }
+}
