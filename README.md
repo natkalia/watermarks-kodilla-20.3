@@ -3,9 +3,9 @@
 Simple console project in Node.js using npm packages (jimp, inquirer) created as exercise for Web Developer Bootcamp in Kodilla (Module 20.3). 
 It helps generating text/image watermarks on user's images and saving them locally.
 
-# Screens
+# Screenshots
 
-Coming soon.
+![screen](https://user-images.githubusercontent.com/49140572/79717674-9a370580-82da-11ea-8ad3-31758b3f7fdb.PNG)
 
 # Features
 
