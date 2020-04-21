@@ -82,9 +82,7 @@ const startApp = async () => {
   ]);
 
   // check if file provided by user exists
-  if (fs.existsSync('./img/' + input.inputImage)) {
-    // console.log('The path exists.');
-  } else {
+  if (!fs.existsSync('./img/' + input.inputImage)) {
     console.log('The path does not exist. App will be closed.');
     process.exit();
   }

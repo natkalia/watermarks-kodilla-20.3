@@ -9,7 +9,9 @@ It helps generating text/image watermarks on user's images and saving them local
 
 ## Features
 
-User can add customized text or customized image watermark to his/her image. Images with watermaks are saved locally. In the future it should be possible to modify the image using jimp features.
+* User can add customized text or customized image watermark to his/her image. 
+* Images with watermaks are saved locally. 
+* In the future it should be possible to modify the image using jimp features.
 
 ## How to run
 
